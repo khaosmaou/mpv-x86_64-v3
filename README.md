@@ -1,6 +1,9 @@
 REQUIREMENTS: 
+
 Latest Python from https://www.python.org/downloads/
+
 Latest Vapoursynth from https://github.com/vapoursynth/vapoursynth/releases
+
 *** Make sure to install both system wide and available to all users, and add python to bash in the installer.
 
 Once installed, open a cmd or PowerShell window and write:
@@ -12,6 +15,7 @@ To verify python is correctly installed.
 Then run the Python console and run these two commands to import vapoursynth to python and check version:
 
 from vapoursynth import core
+
 print(core.version())
 
 Use "quit()" to exit the shell.
