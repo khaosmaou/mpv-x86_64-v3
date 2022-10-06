@@ -6,7 +6,7 @@ Make sure to install both system wide and available to all users, and add python
 
 ## INSTALLATION:
 
-Once installed, open a cmd or PowerShell window and write:
+Once requirements are installed, open a cmd or PowerShell window and write:
 
    `python --version`
 
